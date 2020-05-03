@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "home",
+  "usingComponents": {
+    "test": "/components/text/text"
+  }
+}
